@@ -1,0 +1,30 @@
+.App-header {
+  height: 100px;
+  color: black;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.App-title{
+  font-family: Henny Penny;
+  line-height: 100px;
+  font-size: 75px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  
+}
+
+.buttonDiv{
+  padding-top:10px;
+  text-align: center;
+}
+
+.btn-lg{
+  margin-bottom: 25px;
+  font-weight:bold;
+}
+
+.buttonDiv >p{
+  margin-bottom: 25px;
+}

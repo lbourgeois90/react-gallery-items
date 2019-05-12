@@ -1,0 +1,14 @@
+/* .container-flex {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 25px 20% 0 20%;
+    justify-content: space-evenly;
+} */
+
+
+.card-deck{
+    margin: 0 20% 0 20%;
+    justify-content: center;
+}
